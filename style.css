@@ -1,0 +1,29 @@
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+button:focus-visible {
+    outline: 3px solid #175cd3;
+    outline-offset: 3px;
+}
+
+.text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    color: rgb(14, 1, 10);
+}
+
+form.card {
+    padding: 1rem;
+    background-color: #d5dae4;
+}
+
+.group {
+    display: grid;
+    grid-template-columns: 200px;
+    align-items: center;
+    margin-bottom: auto;
+}
+
+.group input .group select {
+    width: 100px;
+}
