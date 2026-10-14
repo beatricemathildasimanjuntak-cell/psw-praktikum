@@ -1,0 +1,3 @@
+LAPORAN DEBUGGING
+1.CSS : Tampilan web tidak muncul, saat web dibuka warna dan desain yang dibuat tidak muncul penyebabnya nya yaitu karna kesalahan memasukkan path nya (<link rel="stylesheet" href="css/style-salah.css">) saya memasukkan path tersebut kemudian saya memperbaikinya dengan (<link rel="stylesheet" href="css/style.css">) setelah diperbaiki CSS berhasil muncul di web
+2.Main.js : Tombol pada web tidak berfungsi, saat tombol ditekan tidak terjadi apa apa/error, penyebabnya terdapat kesalahan pada kode JavaScript. saya kemudian memperbaiki kode yang salah setelah itu tombol dapat berfungsi 
