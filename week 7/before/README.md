@@ -1,5 +1,0 @@
-/*
-NAMA        : BEATRICE SIMANJUNTAK
-NIM         : 41426014
-PRODI       : TRPL
-*/
